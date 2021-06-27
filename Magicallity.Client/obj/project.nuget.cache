@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXWSvUPwGUwXX2LQfZIQH7TwiNP+MXXZrAWbMDT0mcOahifyYEdcUzHzYvHWm3C6fqHjcbb2/g9Khcl9B64u/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jordan\\Documents\\New folder (9)\\Magicallity.Client\\Magicallity.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan\\.nuget\\packages\\citizenfx.core.client\\1.0.1356\\citizenfx.core.client.1.0.1356.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
